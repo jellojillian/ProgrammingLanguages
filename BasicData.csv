@@ -1,0 +1,19 @@
+MostUsed,SimpleVSOpen,ReadVSWrite,PortVSPlat,ProcVSOO,MultiVSSimple,EaseVSOnline,APIvsCompl,CommandVSCompiled
+CompMob,NA,Write,NA,OO,NA,Online,NA,NA
+DB,Simple,Read,NA,NA,NA,NA,Solid API,NA
+DB,Simple,Read,Port,OO,Multi,Ease,Compl,Compiled
+CompMob,Simple,Write,NA,NA,NA,Ease,NA,NA
+CompMob,NA,NA,Plat,NA,NA,NA,NA,Command
+Web,Simple,NA,NA,NA,NA,Ease,NA,NA
+CompMob,NA,NA,NA,NA,NA,NA,NA,NA
+Web,Simple,Write,NA,NA,Simple,Ease,NA,NA
+CompMob,NA,Read,NA,NA,Simple,NA,NA,NA
+Web,Simple,NA,NA,NA,Simple,Ease,NA,NA
+DB,Open,Read,NA,OO,NA,NA,NA,NA
+ALL,Simple,Read,NA,NA,Simple,Ease,NA,NA
+CompMob,Simple,Read,NA,NA,NA,Ease,API,NA
+DB,Open,Read,Port,Proc,Simple,Online,API,Compiled
+ALL,Open,Read,Plat,OO,Simple,Online,API,NA
+CompMob,Simple,Read,NA,NA,Simple,Ease,NA,NA
+Web,NA,Read,NA,OO,Simple,NA,NA,NA
+CompMob,Simple,Read,Port,OO,Simple,Ease,API,Command
